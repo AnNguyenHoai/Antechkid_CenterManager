@@ -6,5 +6,12 @@
   "user_id": "2",
   "acquired_at": "2026-08-17T23:36:16.534164",
   "last_heartbeat": "2026-08-17T23:36:16.534176",
-  "machine": "EASTVN-AnNguyen"
+  "machine": "EASTVN-AnNguyen",
+  "machine_fingerprint": null,
+  "runtime_version": null,
+  "lock_generation": 0,
+  "lease_revision": 1,
+  "finishing_started_at": "2026-08-17T23:37:01.603034",
+  "finishing_deadline": "2026-08-17T23:39:01.603034",
+  "publish_intent": true
 }
