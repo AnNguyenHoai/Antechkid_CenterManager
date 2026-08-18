@@ -1,0 +1,17 @@
+{
+  "locked": true,
+  "session_id": "adc07e5e-5438-4fd9-bacd-948ce2250b53",
+  "owner": "admin",
+  "username": null,
+  "user_id": "1",
+  "acquired_at": "2026-08-18T12:19:37.859655",
+  "last_heartbeat": "2026-08-18T12:19:37.859662",
+  "machine": "EASTVN-AnNguyen",
+  "lock_generation": 0,
+  "lease_revision": 1,
+  "finishing_started_at": "2026-08-18T12:19:49.986866",
+  "finishing_deadline": "2026-08-18T12:21:49.986866",
+  "publish_intent": true,
+  "machine_fingerprint": null,
+  "runtime_version": null
+}
