@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "runtime_version": 91,
+  "runtime_version": 92,
   "database_version": 1,
   "minimum_app_version": "0.1.0",
   "publisher": "CenterManager",
   "branch": "main",
   "created_at": "2026-08-11T08:46:08.463740",
-  "published_at": "2026-08-21T12:10:06.780847"
+  "published_at": "2026-08-21T12:10:45.286892"
 }
