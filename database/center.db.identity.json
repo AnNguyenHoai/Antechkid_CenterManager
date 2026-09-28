@@ -1,0 +1,9 @@
+{
+  "hmac_sha256": "87b8a20f6300d0fca7f42d1eba141e570ac4d8f32c2f540e2976ca97b746cff8",
+  "payload": {
+    "database_id": "77ae370c-0928-4fa2-bd71-c7c1a6957a12",
+    "format_version": 1,
+    "generation": 2,
+    "sha256": "30f77e57eccac04958d0ce900b17d1f992e35af03c9b5b521895b4ebc0ef8135"
+  }
+}
